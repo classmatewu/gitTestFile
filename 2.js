@@ -1,0 +1,1 @@
+console.log('hello I am 2.js');
